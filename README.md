@@ -4,6 +4,8 @@ En esta carpeta se encuentran los archivos relacionados con la solucion del tall
 
 ## Contenido de la Carpeta
 **INFORME TALLER 1 PARALELA**: Informe del taller
-**Taller**: archivos del codigo fuente en Mobaxterm 
+
+**Taller**: archivos del código fuente en Mobaxterm
+ 
 
 
